@@ -2,7 +2,6 @@
 
 
 
-Creating a Software Requirements Specification (SRS) for an e-commerce clothing website involves detailing the functional and non-functional requirements to ensure a smooth development process. Here’s a sample outline for an SRS document specifically tailored to an e-commerce clothing platform.
 
 ---
 
@@ -113,4 +112,4 @@ Diagram how data moves through the system, especially through key components lik
 
 ---
 
-This SRS provides a comprehensive outline for an e-commerce clothing website, guiding development to ensure all user and admin requirements are met.
+
